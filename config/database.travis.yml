@@ -1,0 +1,4 @@
+test:
+  adapter: postgresql
+  database: chat_chat_app_test
+  username: postgres
